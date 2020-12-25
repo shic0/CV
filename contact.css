@@ -22,7 +22,7 @@ body {
     position: fixed; 
     width: 100vw;
     height: 700px;
-    padding-top: 120px; 
+    padding-top: 200px; 
     object-fit: contain;
     background-image: url(/bilder/spotify-main.png);
     background-repeat: no-repeat;

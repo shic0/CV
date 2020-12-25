@@ -27,8 +27,8 @@ body {
 .pic {
     display: flex;
     justify-content: center;
-  /*   height: 150px;  */
     object-fit: contain;
+
 }
 
 .profil {
@@ -73,6 +73,7 @@ h1 {
     width:70%;
     text-align: center;
 }
+
 
 nav {
     display: flex;
@@ -132,7 +133,7 @@ a:hover {
     display: flex;
     position: fixed; 
     width: 100vw;
-    height: 600px;
+    height: 300px;
     padding-top: 20px; 
     object-fit: contain;
     background-image: url(/bilder/spotify-main.png);
@@ -168,7 +169,7 @@ div.scroll {
     flex-direction: column;
     margin-top: 16px;
     background-color: black;
-    height: 150px;
+    height: 147px;
     width: 100vw; 
     overflow-y: auto;
 }
@@ -212,7 +213,8 @@ footer {
     left: 0;
     bottom: 0;
     width: 100vw;
-    height: 92px;    
+    height: 80px;
+    margin-top: 10px;    
 }
 
 
