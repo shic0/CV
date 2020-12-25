@@ -41,6 +41,13 @@ body {
     margin-right: auto; 
     object-fit: cover;
     margin: 30px;
+    border: 1px solid #33A7F4;
+    -webkit-box-shadow: 0px 0px 20px 2px #33A7F4;
+    -moz-box-shadow: 0px 0px 20px 2px #33A7F4;
+    -ms-box-shadow: 0px 0px 20px 2px #33A7F4;
+    -o-box-shadow: 0px 0px 20px 2px #33A7F4;
+    box-shadow: 0px 0px 20px 2px #33A7F4;
+
 }
 
 .headerName {
