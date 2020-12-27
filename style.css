@@ -5,7 +5,7 @@
 body {
     box-sizing: border-box;
     margin: 0px;
-    background-color:black;
+    background-color: black;
     color: white;
 }
 
@@ -20,8 +20,7 @@ body {
 
 .headerContainer {
     display: flex;
-    justify-content: space-evenly;
-/*     height: 170px;   */ 
+    justify-content: space-evenly; 
 }
 
 .pic {
@@ -221,7 +220,7 @@ footer {
     bottom: 0;
     width: 100vw;
     height: 80px;
-    margin-top: 10px;    
+      
 }
 
 
